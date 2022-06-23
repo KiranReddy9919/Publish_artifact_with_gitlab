@@ -1,2 +1,1 @@
-# Publish_artifact_with_gitlab
-publish_artifact_with_gitlab
+# publish_artifact_with_gitlab
